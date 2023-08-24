@@ -4,7 +4,6 @@
 /* Hello World */
 
 // PID: 730723179
-// PID: 
 // I pledge the COMP530 honor code.
 
 #include <stdio.h>
